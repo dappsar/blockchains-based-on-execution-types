@@ -22,11 +22,11 @@ Aptos is a newly constructed proof-of-stake (PoS) blockchain that aims to allevi
 * Prioritizes heterogeneous validators (constrained CPU and storage)
 
 ## [SUI](https://sui.io/)
-SUI is a permissionless PoS L1 blockchain, created by [Mysten Labs](https://mystenlabs.com/). Sui’s object-centric architecture provides horizontal scalability, that it claims is vital to capturing the next billions Web3 users. Sui allows causally unrelated transactions to build a parallelized agreement, increasing scalability. 
+SUI is a permissionless PoS L1 blockchain, created by [Mysten Labs](https://mystenlabs.com/). Sui’s object-centric architecture provides horizontal scalability, which it claims is vital to capturing the next billions Web3 users. Sui allows causally unrelated transactions to build a parallelized agreement, increasing scalability. 
 
 * Programming language: [Move](https://github.com/diem/move) (Rust-based, designed by Diem)
 * Consensus: PoS
-* Sui plans to shard data storage efficiently, and scale its resources horizontally.
+* Sui plans to shard data storage efficiently and scale its resources horizontally.
 
 ## [zkSync](https://zksync.io/)
 Created by [Matter Labs](https://matter-labs.io/), zkSync is one of the most anticipated zkEVM projects. Boasting 2,000 transactions per second, a 10-minute processing time between the rollup and Ethereum mainnet, and no upper bound limit to the value the rollup can securely handle. zkSync adopts the Type-4 approach, supporting compatibility with Solidity and Vyper, Ethereum's coding languages. zkSync 1.0 is already live, having processed about four million transactions. EVM-compatible ZK rollup powered by a zkEVM.
@@ -39,9 +39,9 @@ Scroll is a zkEVM-based zkRollup on Ethereum that enables native compatibility f
 Scroll processes transactions off-chain, and posts succinct proofs of correctness on-chain. 
 
 ## [Hyperspace](https://hyperspace.foundation/)
-On January 24th, 2023, a group of people collectively known simply as Gutenberg announced Hyperspace, a new type of a supercomputer powered by an entirely browser-based blockchain.
+On January 24th, 2023, a group of people collectively known simply as Gutenberg announced Hyperspace, a new type of supercomputer powered by an entirely browser-based blockchain.
 
-"Hyperspace utilizes the user’s own browser in a new web zkVM to execute smart contracts and capture the Proof of Execution Trace in a STARK. These STARKs (“actions”) are bundled together into a single SNARK transaction which is propagated through the network. This design enables massively parallel execution. Since it is already known which specific states are impacted, this then plays a pivotal role in parallel validation. Overall, this design enables 10ms-50ms pre-L1-finality in the same region, providing an experience even faster than what was known as web2 and enabling new type of web3 multiplayer use cases." -- [from Introduciong Hyperspace Article](https://mirror.xyz/0xdC5d2d95CD48865b9d8d9b44827A4a85a65f2970/Rg1ietH8lFbzS3wwl6bnfOCdOoXvKMm3yZGFzSLc6EY)
+"Hyperspace utilizes the user’s own browser in a new web zkVM to execute smart contracts and capture the Proof of Execution Trace in a STARK. These STARKs (“actions”) are bundled together into a single SNARK transaction which is propagated through the network. This design enables massively parallel execution. Since it is already known which specific states are impacted, this then plays a pivotal role in parallel validation. Overall, this design enables 10ms-50ms pre-L1-finality in the same region, providing an experience even faster than what was known as web2 and enabling a new type of web3 multiplayer use cases." -- [from Introducing Hyperspace Article](https://mirror.xyz/0xdC5d2d95CD48865b9d8d9b44827A4a85a65f2970/Rg1ietH8lFbzS3wwl6bnfOCdOoXvKMm3yZGFzSLc6EY)
 
 
 ---
